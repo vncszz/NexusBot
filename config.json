@@ -1,0 +1,20 @@
+{
+
+    "perms": {
+        "equipe_staff": "1076908392125317213",
+        "equipe_parceria": "988493069731102760",
+        "desenvolvedor": "1077794931566989434"
+    },
+    "color": {
+        "rosa": "#D7342A",
+        "preto": "#000000"
+    },
+    "emojis": {
+        "certo": "<:corretoaz:1077748385358028910>",
+        "errado": "<:erradoaz:1076576208285880351>",
+        "cadeado": "<a:cadeado_azul:1135916416898453504>",
+        "sino": "<a:y_sino:1130611058067898458>",
+        "lixeira": "<:trash:1124085610194403489>",
+        "reply": "<:reply:1117123344337207438>"
+    }
+}
